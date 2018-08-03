@@ -4,6 +4,6 @@ let students = ['Adele', 'Beyoncé', 'Lady', 'Madonna', 'Rihanna', 'Taylor']
 
 function lowerCaseStudentNames(student){
     
-  return student.toLowerc
+  return list.map
   
 }
