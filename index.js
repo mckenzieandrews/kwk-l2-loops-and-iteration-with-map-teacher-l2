@@ -1,5 +1,5 @@
 // Code your solution in this file.
-students = 
+students = ['Adele', 'Beyoncé', 'Lady', 'Madonna', 'Rihanna', 'Taylor']
 
 
 function lowerCaseStudentNames(students){
