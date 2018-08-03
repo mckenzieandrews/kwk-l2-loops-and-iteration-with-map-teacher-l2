@@ -2,8 +2,8 @@
 let students = ['Adele', 'Beyoncé', 'Lady', 'Madonna', 'Rihanna', 'Taylor']
 
 
-function lowerCaseStudentNames(students){
-  
-  
+function lowerCaseStudentNames(student){
+    
+  return student.toLowerc
   
 }
