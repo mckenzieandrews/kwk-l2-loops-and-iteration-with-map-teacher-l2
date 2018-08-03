@@ -1,4 +1,4 @@
-function lowerCaseDrivers (list) {
+function lowerCaseStudentNames (list) {
   return list.map(function (driver) {
     return driver.toLowerCase();
   });
